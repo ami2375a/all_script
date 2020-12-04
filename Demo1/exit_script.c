@@ -1,6 +1,6 @@
 /*-----------------------------------------------------------------------------
     Name: exit_script
-    Recorded By: swarna
+    Recorded By: Amit
     Date of recording: 05/09/2016 11:25:37
     Flow details:
     Build details: 4.1.4 (build# 40)
